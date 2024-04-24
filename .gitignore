@@ -1,3 +1,9 @@
+data/
+models/
+*.tmp
+*.mp4
+others
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
