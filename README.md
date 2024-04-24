@@ -30,7 +30,7 @@ MiniConda Install: https://docs.conda.io/projects/miniconda/en/latest/miniconda-
 - Pip Install Requirements: pip install -r requirements.txt 
 
 ## Run
-- Run EdgeDetectionProcess.ipynb with Jupyter Lab/Notebook
+- Run CNNClassifier.ipynb with Jupyter Lab/Notebook
 
 ## Contact
 - Metin Uslu uslumetin@gmail.com
